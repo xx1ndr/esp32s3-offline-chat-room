@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.vscode/
+# Hasil build
+build/
+*.bin
+*.elf
+*.map
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
