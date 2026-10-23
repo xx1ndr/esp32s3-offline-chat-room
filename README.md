@@ -29,7 +29,7 @@ Versi yang saya pakai saat mengompilasi: esp32 core 3.3.12, ESP Async WebServer 
 
 1. Clone repository ini.
    ```
-   
+   git clone https://github.com/xx1ndr/esp32s3-offline-chat-room.git
    ```
 2. Pasang board package esp32 lewat Boards Manager.
 3. Pasang ESPAsyncWebServer dan AsyncTCP (Library Manager, atau ZIP dari GitHub ESP32Async).
@@ -123,7 +123,3 @@ Riwayat chat ada di RAM dan hilang saat ESP32 di-reset. File kiriman tetap ada d
 ## Bug dan saran
 
 Kalau menemukan bug atau punya saran, kabari lewat Issues di repository ini. Pull request juga boleh. Ini proyek hobi, jadi balasannya mungkin tidak langsung.
-
-## Lisensi
-
-MIT. Lihat [LICENSE](LICENSE).
