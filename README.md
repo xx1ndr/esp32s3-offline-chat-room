@@ -123,7 +123,3 @@ Riwayat chat ada di RAM dan hilang saat ESP32 di-reset. File kiriman tetap ada d
 ## Bug dan saran
 
 Kalau menemukan bug atau punya saran, kabari lewat Issues di repository ini. Pull request juga boleh. Ini proyek hobi, jadi balasannya mungkin tidak langsung.
-
-## Lisensi
-
-MIT. Lihat [LICENSE](LICENSE).
